@@ -1,0 +1,13 @@
+segment_sources:
+  I5562B8A2:
+    type: origin_type
+    relation: translation
+    language: bo
+  I6CFDC77F:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  c587941c8df64a018b833833be6d034f:
+    I5562B8A2: 5d66110c1d9f42dd9c6cd60f7f62b650
+    I6CFDC77F: 29b9576914b8444a9b75c52d0f5028fb
